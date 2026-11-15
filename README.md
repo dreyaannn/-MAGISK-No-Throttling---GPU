@@ -1,0 +1,1 @@
+# -MAGISK-No-Throttling---GPU
